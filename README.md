@@ -66,13 +66,6 @@ A web-based platform that analyzes soil and leaf fertility data to help farmers 
 🇮🇳 Tamil    |    🇬🇧 English  
 
 ---
-
-## 📊 GitHub Stats  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ThiyaguCool&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiyaguCool&layout=compact&theme=radical)
-
----
-
 ## 🤝 Connect with Me  
 📧 [thiyagu6835@gmail.com](mailto:thiyagu6835@gmail.com)  
 🌐 [LinkedIn](http://www.linkedin.com/in/thiyagu)  
